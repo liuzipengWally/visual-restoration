@@ -64,7 +64,7 @@ Do not include private Figma links, screenshots, source paths, runtime data, per
 
 ### License
 
-Zero-Clause BSD (0BSD). See [`LICENSE`](LICENSE).
+MIT License. See [`LICENSE`](LICENSE).
 
 ---
 
@@ -121,7 +121,7 @@ Visual Restoration 已经在 Web、iOS 和 Android 工程中进行过验证，�
 
 ### License
 
-采用零条款 BSD（0BSD）协议，详见 [`LICENSE`](LICENSE)。
+采用 MIT License（MIT 许可证），详见 [`LICENSE`](LICENSE)。
 
 ---
 ### この skill が必要な理由
@@ -179,4 +179,4 @@ Visual Restoration は Web、iOS、Android のプロジェクトで検証され�
 
 ### License
 
-Zero-Clause BSD（0BSD）ライセンスです。詳細は [`LICENSE`](LICENSE) を参照してください。
+MIT License（MITライセンス）です。詳細は [`LICENSE`](LICENSE) を参照してください。
